@@ -1,6 +1,6 @@
 Scrapes Australan weather data from WillyWeather, and sends automated notifications to mobile/desktop.
 
-# Set Up
+## Set Up
 
 1. Install dependencies from your terminal:
   `$ python -m pip install requests`
@@ -12,6 +12,4 @@ Scrapes Australan weather data from WillyWeather, and sends automated notificati
 5. Run the code locally to ensure all notifications are working as designed
 6. Schedule the code as a [Cron Job](https://cron-job.org/) or on a free automation platform like [PythonAnywhere](https://www.pythonanywhere.com/)
 
-
-
-Note: pushover app has a one-time $5 USD setup fee after a month. I have no affiliation with them whatsoever, but have paid for it, and found it to be useful for my own purposes.
+_Note: pushover app has a one-time $5 USD setup fee after a month. I have no affiliation with them whatsoever, but have paid for it, and found it to be useful for my own purposes._
